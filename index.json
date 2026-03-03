@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "name": "Tachiyomi: Tu Sach Xinh Xinh",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.tusachxinhxinh",
+    "apk": "tachiyomi-vi.tusachxinhxinh-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Tu Sach Xinh Xinh",
+        "lang": "vi",
+        "id": "2884699388526602935",
+        "baseUrl": "https://tusachxinhxinh12.online",
+        "versionId": 1
+      }
+    ]
+  }
+]
