@@ -34,5 +34,23 @@
         "versionId": 1
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: ZTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.ztruyen",
+    "apk": "tachiyomi-vi.ztruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "ZTruyen",
+        "lang": "vi",
+        "id": "775701181360717162",
+        "baseUrl": "https://ztruyen.io.vn",
+        "versionId": 1
+      }
+    ]
   }
 ]
