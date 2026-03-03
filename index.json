@@ -36,6 +36,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Vivicomi",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.vivicomi",
+    "apk": "tachiyomi-vi.vivicomi-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Vivicomi",
+        "lang": "vi",
+        "id": "7034813677623391958",
+        "baseUrl": "https://vivicomi17.info",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: ZTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.ztruyen",
     "apk": "tachiyomi-vi.ztruyen-v1.4.1.apk",
