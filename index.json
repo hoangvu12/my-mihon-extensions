@@ -1,5 +1,23 @@
 [
   {
+    "name": "Tachiyomi: CuuTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
+    "apk": "tachiyomi-vi.cuutruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Cứu Truyện",
+        "lang": "vi",
+        "id": "4989357807406366033",
+        "baseUrl": "https://cuutruyen.net",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: DaoMeoDen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.daomeoden",
     "apk": "tachiyomi-vi.daomeoden-v1.4.2.apk",
