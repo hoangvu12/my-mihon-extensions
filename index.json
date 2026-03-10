@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: DaoMeoDen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.daomeoden",
-    "apk": "tachiyomi-vi.daomeoden-v1.4.1.apk",
+    "apk": "tachiyomi-vi.daomeoden-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -20,10 +20,10 @@
   {
     "name": "Tachiyomi: Panomic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.panomic",
-    "apk": "tachiyomi-vi.panomic-v1.4.1.apk",
+    "apk": "tachiyomi-vi.panomic-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
