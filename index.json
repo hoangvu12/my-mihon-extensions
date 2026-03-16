@@ -36,6 +36,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: Kami Comic",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.kamicomi",
+    "apk": "tachiyomi-vi.kamicomi-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Kami Comic",
+        "lang": "vi",
+        "id": "3368747537983980835",
+        "baseUrl": "https://kamicomi.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Panomic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.panomic",
     "apk": "tachiyomi-vi.panomic-v1.4.2.apk",
