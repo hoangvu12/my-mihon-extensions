@@ -54,6 +54,42 @@
     ]
   },
   {
+    "name": "Tachiyomi: MoonTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.moontruyen",
+    "apk": "tachiyomi-vi.moontruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "MoonTruyen",
+        "lang": "vi",
+        "id": "6728458353942273215",
+        "baseUrl": "https://moontruyen.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: Otakusic",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.otakusic",
+    "apk": "tachiyomi-vi.otakusic-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "Otakusic",
+        "lang": "vi",
+        "id": "4694155353004433186",
+        "baseUrl": "https://otakusic.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Panomic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.panomic",
     "apk": "tachiyomi-vi.panomic-v1.4.2.apk",
