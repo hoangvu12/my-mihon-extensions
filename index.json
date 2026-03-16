@@ -56,10 +56,10 @@
   {
     "name": "Tachiyomi: MoonTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.moontruyen",
-    "apk": "tachiyomi-vi.moontruyen-v1.4.1.apk",
+    "apk": "tachiyomi-vi.moontruyen-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
@@ -74,10 +74,10 @@
   {
     "name": "Tachiyomi: Otakusic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.otakusic",
-    "apk": "tachiyomi-vi.otakusic-v1.4.1.apk",
+    "apk": "tachiyomi-vi.otakusic-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
