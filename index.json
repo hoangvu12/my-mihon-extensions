@@ -74,10 +74,10 @@
   {
     "name": "Tachiyomi: Otakusic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.otakusic",
-    "apk": "tachiyomi-vi.otakusic-v1.4.11.apk",
+    "apk": "tachiyomi-vi.otakusic-v1.4.12.apk",
     "lang": "vi",
-    "code": 11,
-    "version": "1.4.11",
+    "code": 12,
+    "version": "1.4.12",
     "nsfw": 0,
     "sources": [
       {
