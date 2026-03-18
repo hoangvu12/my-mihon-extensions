@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: CManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.cmanga",
-    "apk": "tachiyomi-vi.cmanga-v1.4.1.apk",
+    "apk": "tachiyomi-vi.cmanga-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 1,
     "sources": [
       {
@@ -200,10 +200,10 @@
   {
     "name": "Tachiyomi: TruyenQQNo",
     "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqqno",
-    "apk": "tachiyomi-vi.truyenqqno-v1.4.1.apk",
+    "apk": "tachiyomi-vi.truyenqqno-v1.4.2.apk",
     "lang": "vi",
-    "code": 1,
-    "version": "1.4.1",
+    "code": 2,
+    "version": "1.4.2",
     "nsfw": 0,
     "sources": [
       {
