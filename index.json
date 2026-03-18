@@ -162,6 +162,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: OTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.otruyen",
+    "apk": "tachiyomi-vi.otruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "OTruyen",
+        "lang": "vi",
+        "id": "8070757025584294717",
+        "baseUrl": "https://manga18k.xyz",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: Panomic",
     "pkg": "eu.kanade.tachiyomi.extension.vi.panomic",
     "apk": "tachiyomi-vi.panomic-v1.4.2.apk",
