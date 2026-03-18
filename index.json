@@ -1,5 +1,23 @@
 [
   {
+    "name": "Tachiyomi: CManga",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.cmanga",
+    "apk": "tachiyomi-vi.cmanga-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "CManga",
+        "lang": "vi",
+        "id": "5975790728262229465",
+        "baseUrl": "https://cmangax15.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CuuTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.cuutruyen",
     "apk": "tachiyomi-vi.cuutruyen-v1.4.2.apk",
@@ -54,6 +72,24 @@
     ]
   },
   {
+    "name": "Tachiyomi: LoppyToon",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.loppytoon",
+    "apk": "tachiyomi-vi.loppytoon-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "LoppyToon",
+        "lang": "vi",
+        "id": "6580420139533147522",
+        "baseUrl": "https://loppytoon.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: MoonTruyen",
     "pkg": "eu.kanade.tachiyomi.extension.vi.moontruyen",
     "apk": "tachiyomi-vi.moontruyen-v1.4.2.apk",
@@ -67,6 +103,24 @@
         "lang": "vi",
         "id": "6728458353942273215",
         "baseUrl": "https://moontruyen.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: NetTruyen",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.nettruyen",
+    "apk": "tachiyomi-vi.nettruyen-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "NetTruyen",
+        "lang": "vi",
+        "id": "5198966899163361086",
+        "baseUrl": "https://nettruyen.work",
         "versionId": 1
       }
     ]
@@ -139,6 +193,24 @@
         "lang": "vi",
         "id": "2553532324170433933",
         "baseUrl": "https://truyenqq.com.vn",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: TruyenQQNo",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.truyenqqno",
+    "apk": "tachiyomi-vi.truyenqqno-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "TruyenQQNo",
+        "lang": "vi",
+        "id": "6328733939596045300",
+        "baseUrl": "https://truyenqqno.com",
         "versionId": 1
       }
     ]
