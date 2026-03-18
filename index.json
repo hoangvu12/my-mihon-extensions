@@ -1,5 +1,23 @@
 [
   {
+    "name": "Tachiyomi: BlogTruyenMoi",
+    "pkg": "eu.kanade.tachiyomi.extension.vi.blogtruyenmoi",
+    "apk": "tachiyomi-vi.blogtruyenmoi-v1.4.1.apk",
+    "lang": "vi",
+    "code": 1,
+    "version": "1.4.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "BlogTruyenMoi",
+        "lang": "vi",
+        "id": "1210943159518581973",
+        "baseUrl": "https://blogtruyenmoi.live",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Tachiyomi: CManga",
     "pkg": "eu.kanade.tachiyomi.extension.vi.cmanga",
     "apk": "tachiyomi-vi.cmanga-v1.4.2.apk",
